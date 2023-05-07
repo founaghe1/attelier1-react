@@ -39,7 +39,8 @@ function Connection(){
                         </Form.Group>
 
                         <div className="text-end my-4 ">
-                            <a href="../ForgotenPassW/ForgotPassW" className="text-muted">Mot de pass oublier</a>
+                            {/* <a href="../ForgotenPassW/ForgotPassW" className="text-muted">Mot de pass oublier</a> */}
+                            <Link className="nav-link fs-6 text-decoration-underline"  to="ForgotenPassW/ForgotPassW">Mot de pass oublier</Link>
                         </div>
 
 
@@ -49,7 +50,8 @@ function Connection(){
                             </Button>
                         </div>
                         <div className="text-end mt-2">
-                            <a href="../Inscrir/Inscription">S'inscrire</a>
+                            {/* <a href="../Inscrir/Inscription">S'inscrire</a> */}
+                            <Link className="nav-link fs-6 text-decoration-underline"  to="Inscrir/Inscription">S'inscrire</Link>
                         </div>
                         
                     </Form>
