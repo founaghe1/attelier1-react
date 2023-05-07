@@ -32,7 +32,7 @@ export const Navbars = () => {
                 <button class="btn btn-outline-success" type="submit">Search</button>
             </form>
             <button className="btn py-2 ms-md-5 mt-sm-2 deconnect">
-                <Link className="nav-link fs-6 fw-bold "  to="/">Deconnection</Link>
+                <Link className="nav-link fs-6 fw-bold "  to="Inscrir/Inscription">Deconnection</Link>
             </button>
             </div>
         </div>
