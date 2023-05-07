@@ -52,7 +52,7 @@ function Inscription() {
                         </div>
                         <div className="text-end  w-100 mt-2 retour">
                             {/* <a href="/" className="dejaCompt">Avez-vous un compte</a> */}
-                            <Link className="nav-link fs-6 text-decoration-underline dejaCompt"  to="/">Avez-vous un compte</Link>
+                            <Link className="nav-link fs-6 text-decoration-underline dejaCompt"  to="/">Avez-vous un compte?</Link>
                         </div>
                         
                     </Form>
