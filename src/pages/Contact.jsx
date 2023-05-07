@@ -35,7 +35,7 @@ function Contact() {
                         </Form.Group>
 
                         <div className='text-end'>
-                            <Button className='px-5 btn text-dark fw-bold shadow'  type="submit" >
+                            <Button className='px-5 btn text-dark fw-bold shadow' >
                             Envoyez
                             </Button>
                         </div>

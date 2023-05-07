@@ -30,7 +30,7 @@ function ForgotPassW (){
                             </Form.Text>
                             </Form.Group>
                             <div className='text-end'>
-                            <Button className='px-5 mb-3 btn bg-warning w-100 rounded-3 border-0 text-dark fw-bold shadow'  type="submit" >
+                            <Button className='px-5 mb-3 btn bg-warning w-100 rounded-3 border-0 text-dark fw-bold shadow' >
                                 Envoyer
                             </Button>
                         </div>

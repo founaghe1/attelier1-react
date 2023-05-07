@@ -45,7 +45,7 @@ function Connection(){
 
 
                         <div className='text-end'>
-                            <Button className=' btn border-0 text-dark fw-bold shadow bg-warning w-100'  type="submit" >
+                            <Button className=' btn border-0 text-dark fw-bold shadow bg-warning w-100' >
                                 <Link className="nav-link fs-6 fw-bold "  to="home">Connectez-vous</Link>
                             </Button>
                         </div>

@@ -46,7 +46,7 @@ function Inscription() {
                     
 
                         <div className='text-end'>
-                            <Button className='px-5 btn bg-warning w-100 rounded-3 border-0 text-dark fw-bold shadow'  type="submit" >
+                            <Button className='px-5 btn bg-warning w-100 rounded-3 border-0 text-dark fw-bold shadow' >
                                 S'inscrire
                             </Button>
                         </div>
