@@ -23,7 +23,6 @@ function Connection(){
                     <h3 className="text-center mb-2 identifier">S'identifier</h3>
                     <Form className="ms-3">
                         <Form.Group className="mb-3" controlId="formBasicEmail">
-                        <Form.Label className="fw-bold">Email address</Form.Label>
                         <Form.Control type="email" placeholder="Enter email" />
                         <Form.Text className="">
                             <p className="privatMail">
@@ -34,7 +33,6 @@ function Connection(){
                         </Form.Group>
 
                         <Form.Group className="mb-3" controlId="formBasicPassword">
-                            <Form.Label className="fw-bold">Password</Form.Label>
                             <Form.Control type="password" placeholder="Password" />
                         </Form.Group>
 

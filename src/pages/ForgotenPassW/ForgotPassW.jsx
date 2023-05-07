@@ -16,11 +16,9 @@ function ForgotPassW (){
                         <div className="logo my-3">
                             <img src={logo} alt="" />
                         </div>
-                        <h4 className="text-center reinsialise">Reinsialiser votre de mot de pass</h4>
-                        <p className="notice">Pour reinsialiser votre mot de pass veuillez entrer votre Email addresse et nous vous enverons une notfication.</p>
+                        <p className="notice">Pour reinsialiser votre mot de pass veuillez entrer votre Email et nous vous enverons une notfication.</p>
                         <form action="">
                             <Form.Group className="mb-3" controlId="formBasicEmail">
-                            <Form.Label className="fw-bold">Email address</Form.Label>
                             <Form.Control type="email" placeholder="Enter email" />
                             <Form.Text className="">
                             <p className="privatMail">
