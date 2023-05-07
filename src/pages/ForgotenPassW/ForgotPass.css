@@ -1,0 +1,12 @@
+.reinsialise{
+    color: rgb(227, 95, 13);
+}
+.notice{
+    color: rgb(27, 139, 25);
+}
+
+@media screen and (max-width: 415px) {
+    .monCol{
+        width: 90%;
+    }
+}

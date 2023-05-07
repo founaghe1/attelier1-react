@@ -1,0 +1,16 @@
+.BgNav{
+    background-color: #b2d3dc;
+}
+.founa{
+    font-family:cursive
+}
+
+.deconnect{
+    background-color: #e16309 !important;
+}
+
+@media screen and (max-width: 415px){
+    .deconnect{
+        margin-top: 4px;
+    }
+}

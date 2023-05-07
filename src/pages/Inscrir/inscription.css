@@ -1,0 +1,29 @@
+.logoIns img{
+    width: 15%;
+}
+.logoIns{
+    text-align: center;
+}
+.create{
+    color: #2b7423;
+}
+.dejaCompt{
+    color: #e3750e !important;
+}
+.inscript{
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 25px;
+    border: 1px solid #e1e0e0;
+    margin-top: 65px !important;
+    margin-bottom: 30px;
+}
+@media screen and (max-width: 415px) {
+    .inscript{
+        margin-top: 75px !important;
+        margin-left: 5%;
+        margin-right: 5%;
+        width: 90% !important;
+    } 
+      
+}

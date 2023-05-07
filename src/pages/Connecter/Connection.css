@@ -1,0 +1,30 @@
+.logo img{
+    width: 15%;
+}
+.logo{
+    text-align: center;
+}
+.connect{
+    border: 2px solid rgb(246, 246, 238);
+    border-radius: 5%;
+    padding-top: 3px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.privatMail{
+    color: rgb(208, 149, 22) !important;
+}
+.identifier{
+    color: rgb(223, 77, 20);
+}
+
+@media screen and (max-width: 415px) {
+    .connect{
+        margin-left: 5%;
+        margin-right: 5%;
+        width: 90% !important;
+    }
+
+    
+}

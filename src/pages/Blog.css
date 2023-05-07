@@ -1,0 +1,9 @@
+.Blog{
+    background-image: url('./img/2.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 575px;
+}
+.h2{
+    color: rgb(23, 144, 144);
+}

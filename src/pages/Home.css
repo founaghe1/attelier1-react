@@ -1,0 +1,14 @@
+.homePage{
+    height: 100%;
+    width: 100%;
+}
+.Accueil{
+    background-image: url("./img/1.webp");
+    height: 575px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h2{
+    color: rgb(34, 164, 184);
+}
