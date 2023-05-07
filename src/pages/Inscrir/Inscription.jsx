@@ -8,8 +8,8 @@ import { Link } from "react-router-dom";
 
 function Inscription() {
     return (
-        <div className="container mt-lg-2 pt-lg-2"> 
-            <div className="row mt-2 pt-1 shadow inscript">
+        <div className="container mt-5 pt-2 "> 
+            <div className="row mt-5 pt-2 shadow inscript">
                 <div className="col-md-12">
 
                     <div className="logoIns my-3">

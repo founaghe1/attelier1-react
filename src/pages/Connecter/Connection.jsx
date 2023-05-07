@@ -11,9 +11,9 @@ import { Link } from "react-router-dom";
 function Connection(){
     return (
         <div className="connection mt-5 pt-5 ">
-            <div className="connection-inner connect w-50 shadow">
+            <div className="connection-inner connect w-50 shadow mt-5">
                 
-                <div className="logo mb-2">
+                <div className="logo my-3">
                     <img src={logo} alt="Image" />
                 </div>
                 

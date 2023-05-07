@@ -6,14 +6,13 @@ import './Contact.css';
 function Contact() {
     return (
         <div className='Contact pb-5 mt-5'>
-            <h1 className='h1 text-center py-4'>Bien venu dans la page contact</h1>
+            <h1 className='h1 text-center py-4'>Bienvenu dans la page contact</h1>
 
-            <div class="container text-light pb-4">
+            <div class="container text-light pb-5">
                 <div class="row d-flex justify-content-center">
                     <div class="col-md-6 col-sm-12">
                     <Form>
                         <Form.Group className="mb-3" controlId="formBasicEmail">
-                        <Form.Label>Email address</Form.Label>
                         <Form.Control type="email" placeholder="Enter email" />
                         <Form.Text className="text-muted">
                          We'll never share your email with anyone else.
@@ -21,12 +20,10 @@ function Contact() {
                         </Form.Group>
 
                         <Form.Group className="mb-3" controlId="formBasicPassword">
-                            <Form.Label>Password</Form.Label>
                             <Form.Control type="password" placeholder="Password" />
                         </Form.Group>
 
                         <div class="mb-3">
-                            <label for="exampleFormControlTextarea1" class="form-label">Envoyer un Message</label>
                             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder='Tapez votre message'></textarea>
                         </div>
 
@@ -34,7 +31,7 @@ function Contact() {
                             <Form.Check type="checkbox" label="Validez" />
                         </Form.Group>
 
-                        <div className='text-end'>
+                        <div className='text-end mb-5'>
                             <Button className='px-5 btn text-dark fw-bold shadow' >
                             Envoyez
                             </Button>
